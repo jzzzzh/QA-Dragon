@@ -253,12 +253,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - VLLM team for efficient LLM serving
 - The open-source community for various tools and libraries
 
-## 📞 Contact
-
-For questions, issues, or contributions:
-- **Issues**: [GitHub Issues](https://github.com/your-username/QA-Dragon/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/QA-Dragon/discussions)
-- **Email**: your-email@example.com
 
 ---
 
