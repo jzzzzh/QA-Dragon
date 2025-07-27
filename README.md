@@ -6,6 +6,25 @@
 
 **QA-Dragon: Query-Aware Dynamic RAG System for Knowledge-Intensive Visual Question Answering**
 
+## 👥 Authors
+
+**Co-First Authors:**
+- **Zhuohang Jiang*** - The Hong Kong Polytechnic University, Hong Kong SAR, China  
+  Email: zhuohang.jiang@connect.polyu.hk
+- **Pangjing Wu*** - The Hong Kong Polytechnic University, Hong Kong SAR, China  
+  Email: pang-jing.wu@connect.polyu.hk
+- **Xu Yuan*** - The Hong Kong Polytechnic University, Hong Kong SAR, China  
+  Email: xander.yuan@connect.polyu.hk
+
+**Corresponding Authors:**
+- **Wenqi Fan†** - The Hong Kong Polytechnic University, Hong Kong SAR, China  
+  Email: wenqi.fan@polyu.edu.hk
+- **Qing Li†** - The Hong Kong Polytechnic University, Hong Kong SAR, China  
+  Email: csqli@comp.polyu.edu.hk
+
+*Equal contribution  
+†Corresponding authors
+
 
 
 ## 📖 Overview
