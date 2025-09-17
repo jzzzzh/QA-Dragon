@@ -247,6 +247,19 @@ isort agents/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Citation
+If you find our work valuable and it has contributed to your research or projects, we kindly request that you cite our paper. Your recognition is a driving force for our continuous improvement and innovation🤗.
+```
+@inproceedings{
+jiang2025qadragon,
+title={{QA}-Dragon: Query-Aware Dynamic {RAG} System for Knowledge-Intensive Visual Question Answering},
+author={Zhuohang Jiang and Pangjing Wu and Xu Yuan and Wenqi Fan and Li Qing},
+booktitle={2025 KDD Cup Workshop for Multimodal Retrieval Augmented Generation},
+year={2025},
+url={https://openreview.net/forum?id=LK3pLPsNWz}
+}
+```
+
 ## 🙏 Acknowledgments
 
 - BLIP2 team for the vision-language model
